@@ -4,7 +4,8 @@
   "description": "📄 A step by step guide to create and setup a Node.js project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samirzaee/nodejs-project-setup-guide/issues"
   },
-  "homepage": "https://github.com/samirzaee/nodejs-project-setup-guide#readme"
+  "homepage": "https://github.com/samirzaee/nodejs-project-setup-guide#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
