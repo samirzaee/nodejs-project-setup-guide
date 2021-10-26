@@ -1,6 +1,6 @@
 {
   "name": "nodejs-project-setup-guide",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "📄 A step by step guide to create and setup a Node.js project",
   "main": "app.js",
   "scripts": {
