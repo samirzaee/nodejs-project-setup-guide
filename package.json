@@ -1,7 +1,7 @@
 {
   "name": "nodejs-project-setup-guide",
   "version": "0.2.0",
-  "description": "📄 A step by step guide to create and setup a Node.js project",
+  "description": "📄 A step-by-step guide to creating and setting up a Node.js project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
