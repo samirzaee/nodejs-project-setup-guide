@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-project-setup-guide",
+  "version": "0.2.0",
+  "description": "📄 A step-by-step guide to creating and setting up a Node.js project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirzaee/nodejs-project-setup-guide.git"
+  },
+  "author": "Sadegh Mirzaee <s.mirzaee37@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samirzaee/nodejs-project-setup-guide/issues"
+  },
+  "homepage": "https://github.com/samirzaee/nodejs-project-setup-guide#readme",
+  "devDependencies": {
+    "prettier": "2.4.1",
+    "standard-version": "^9.3.2"
+  }
+}
